@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+
+<body>
+    <style type="text/css">
+        body {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        table th,
+        table td {
+            border: 1px solid #3c3c3c;
+            padding: 3px 8px;
+
+        }
+
+        a {
+            background: blue;
+            color: #fff;
+            padding: 8px 10px;
+            text-decoration: none;
+            border-radius: 2px;
+        }
+    </style>
+
+    
+    <table border="1">
+        <tr>
+
+            
+                    <th>No</th>
+                    <th>Tanggal</th>
+                    <th>Curah Hujan</th>
+                    <th>Sed Sim</th>
+
+                        </tr>
+                        <tr>
+                    <td>1</td>
+                    <td>2023-10-24</td>
+                    <td>6</td>
+                    <td>32.63</td>
+                </tr>
+                            <tr>
+                    <td>2</td>
+                    <td>2023-10-25</td>
+                    <td>31</td>
+                    <td>3679.53</td>
+                </tr>
+                </table>
+</body>
+
+</html>

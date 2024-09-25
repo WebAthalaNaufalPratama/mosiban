@@ -1,0 +1,17 @@
+.dash-circle {
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  /* width: 96px; */
+  /* px; */
+  /* height: 96px; */
+  /* background-color: #f6f6f9; */
+  /* border-radius: 50%; */
+  }
+  .dash-circle i {
+    font-size: 2.5rem !important;
+    position: absolute;
+    top: 30px;
+    left: 30px; }
+    .dash-circle i.cc {
+      top: 20px; }

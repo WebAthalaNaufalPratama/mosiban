@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monitoringbanjir-9e3e5",
+  "private_key_id": "3fc3574e96e865a524ead2daf20accf343820d54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuDSeAhOo82JMQ\nwH/fSXdAr/ehMwJ7ZLJWKBqzT/oSme51oII2Y9eR30xYef2Gjrq3V7O71lWw1qLN\n3iYvuOULA00nMOQX52MWsNw/G1G/8O7pbHp3sr1zN9mlVXTinuKd3aWmbAz7pfEI\nP4PXdm25660MZ1bz2xnCq/yIpLATiBoJmhYXR6sRBGrpuYAk6e6UflWyZunFigqD\nq6qrfOjnBRtslM4kBpRUK5Xs5deeBB86JbPpRwbQK5ekEw7/ZslyWB3FsDOWy5ew\nS6Wu5GztmrNru32rNEXtIbt2ysCK1SsZIc/djLOVjYRQfURSpFyk/ZQOJW6S1vuP\n2Z7l1AlPAgMBAAECggEARLmufFejKnLaLn1szWFv2NCUnMjVwBsHs4D7iGYgC8u+\nAN6YiSxU+YuuhmKds4G0XScoQCP2dEnbEbU/cAqgsYe/9/8Q8ue9/ziLNXrlJJVh\n3CkRyEnlkQSARM/BoYV+ZlYtszjBnMtBJYD0xrktn33vZUPWYiuQqdeuXiKxpMlZ\nJ8kJwxWj/FGR2gBaUc1LT5eFvGHmJOuRFqtAVDSHSDWXyRVLs+UMP1Io8Zf1lacD\noje1uqNWuZmLhCSCmB8M8qczcPcscyI4pW8C0YrJgx4s2RGfNCtpi1gblBmeVXxr\nHYWmiWqsKK03+rdTC/YaqtF4qDijTX0QOJoPXrx0oQKBgQD9hCVOG4Nb1g1Auom1\n9O4oJr67lOpAtjE4NtAiErK6sozeJCGDgK6gNKnvNoF8nQ0o5SEtjTlzCCGFyu4f\nkOLM8Vl5sgVS+ByS/ZZqrPST92mT+pv5Au5BSlfwr+2pq2VktiD65Ou9JzvVda/a\nkU5SGNBMad/76uRN3yolN9xuYQKBgQDwYjh9UlXCXfDIbwiMLsjWujzLHc9SyVTi\nUSDnSE6FP7jJJmup0jWJkSYPoTYuUYXTJLd0/R3li7ssSKyWOz9P+DOMxMVRF9Mq\n4p+UH8iHGRBOODcQYXmC84c7GIQtBvm6fpFQfQbTDtnX00g+jk32PVj0u3Aby+1F\nMYYezlq1rwKBgF07yhRtneOaVwllENwwFZ4Ckcaev3/JAVTxI55ETiLHI3NWylR4\ncMBOXeixnPFdOMe/bHI6K9SYOuvfc698M0y3vfY5eCfJQ4jzZewZa2E3bkaTteTg\nJQsx8iF8MeViOUnOiVZ79g58bU7VlzTEl48tvP09OriE7C2PUwqY/qJBAoGBAPAW\nKbWBdoYarVKDE1Zvo8hTWkTEET3uOAmSXfqiDUqoyjadWQrUGQS9I/aYXTUF11N7\naIBADowlc1xXeYjSw/lrPJFsNmc4FIDQt/GJjQ7hyZdWLij+Mg7IjFhJtDoErYfG\nwfxR428JdipJq+5O0y8NNru4OdCJbQGe5QX/tDmhAoGBAN0Q0BmBlcSuGL3j3sD8\nBqYDvZEeBLgTcO3ue5xadh/87O95xQJPPY8qyQJxRmwe7BGX7Y9er1DfmUHZuJnt\nWqS4RVrzRZ3e0W8+V2Wg2EODV8fwBfL+7pb1NK9D9XbKj8I7CbyPH2JoTlV1a5Zo\n7AEkZ8+6/PTVUzWfzgDe9qed\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zooz6@monitoringbanjir-9e3e5.iam.gserviceaccount.com",
+  "client_id": "109958758435097937546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zooz6%40monitoringbanjir-9e3e5.iam.gserviceaccount.com"
+}
